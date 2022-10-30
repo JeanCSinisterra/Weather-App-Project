@@ -15,7 +15,5 @@ Extract the Data and display to the user in a simple card.
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <br>
 
-Visit the Website here: 
-
 
 
