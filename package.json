@@ -1,0 +1,18 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "This is a weather project to practice my handle with APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean C. Sinisterra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jquery": "^3.6.1",
+    "open-weather-icons": "^0.0.8"
+  }
+}
